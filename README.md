@@ -29,7 +29,7 @@ This script extracts email addresses from a list of URLs.
 Clone the repository:
 
 ``` shell
-git clone https://github.com/Boopath1/EEMALU
+https://github.com/Boopath1/extract-emails
 ```
 
 Make the script executable:
